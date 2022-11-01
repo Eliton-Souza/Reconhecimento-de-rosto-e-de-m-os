@@ -1,2 +1,2 @@
-# Reconhecimento-de-rosto-e-de-m-os
+# Reconhecimento Facial e de Mãos
 Estudos com OpenCV e MediaPipe
